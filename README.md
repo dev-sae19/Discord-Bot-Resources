@@ -637,7 +637,7 @@ Read [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guide.
 
 **Built with 💙 for the Discord bot developer community**
 
-[![Star this repo](https://img.shields.io/github/stars/YOUR_USERNAME/discord-bot-resources?style=social)](.)
+[![Star this repo](https://img.shields.io/github/stars/dev-sae19/discord-bot-resources?style=social)](.)
 
 *If this helped you, consider giving it a ⭐ — it means a lot!*
 
